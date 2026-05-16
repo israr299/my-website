@@ -77,3 +77,35 @@
  .item p:hover{
     color: white;
  }
+}
+ .box{
+    display: flex;
+    background-color:  #0b2353;
+    margin-top: -2px;
+ }
+ .box1{
+    width: 50%;
+    height: 40vh;  
+    text-align: center;
+ }   
+ .box1 h1{
+    padding-top: 210px;
+    color: aqua;
+    font-size: 45px;
+
+ }
+ .box2{
+    width: 50%;
+    /* height: 40vh; */
+ }
+ .box2 p{
+     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 18px;
+    word-spacing: 2px;
+    letter-spacing: 1px;;
+    padding-left: 20px;
+    padding-right: 20px;
+ }
+ .box2 p:hover{
+    color: white;
+ }
