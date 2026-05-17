@@ -1,5 +1,6 @@
 *body{
     margin: 0%;
+    padding: 0%;
 }
 .header{
     width: 100%;
@@ -51,6 +52,7 @@
 
    color: white;
 }
+
  /* body  */
  .container img{
     width: 100%;
@@ -76,14 +78,14 @@
  }
  .item p:hover{
     color: white;
-}
-  .box{
+ }
+ .box{
     display: flex;
     background-color:  #0b2353;
     margin-top: -2px;
  }
  .box1{
-    width: 45%;
+    width: 50%;
     height: 40vh;  
     text-align: center;
  }   
@@ -94,7 +96,7 @@
 
  }
  .box2{
-    width: 45%;
+    width: 50%;
     /* height: 40vh; */
  }
  .box2 p{
@@ -104,7 +106,7 @@
     letter-spacing: 1px;;
     padding-left: 20px;
     padding-right: 20px;
-  color: rgb(189, 182, 182);
+    color: rgb(189, 182, 182);
  }
  .box2 p b{
     color: white;
