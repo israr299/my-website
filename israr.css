@@ -104,8 +104,11 @@
     letter-spacing: 1px;;
     padding-left: 20px;
     padding-right: 20px;
+  color: rgb(189, 182, 182);
  }
- .box2 p:hover{
+ .box2 p b{
     color: white;
  }
+ .box2 p b:hover{
+    color: aqua;
  }
